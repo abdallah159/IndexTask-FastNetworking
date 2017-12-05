@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Index Task 1</string>
+    <string name="user_id">ID:</string>
+    <string name="user_name">Name:</string>
+    <string name="user_mobile">Mobile:</string>
+    <string name="user_country">Country:</string>
+    <string name="user_city">City:</string>
+    <string name="user_address">Address:</string>
+    <string name="Nofication_Button">Get Notification</string>
+
+
+</resources>
